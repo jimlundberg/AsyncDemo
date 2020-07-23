@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace AsyncBreakfast
 {
-    class AsyncDemo
+    class AsyncDemo 
     {
         static async Task Main(string[] args)
         {
